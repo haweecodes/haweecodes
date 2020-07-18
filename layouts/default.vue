@@ -10,7 +10,6 @@
     <v-spacer></v-spacer>
       <v-btn depressed class="nav-links" x-large color="white" to="/">Me</v-btn>
       <v-btn depressed class="nav-links" x-large color="white" to="/work">Work</v-btn>
-      <!-- <v-btn depressed class="nav-links" x-large color="white" to="/blogs">Blogs</v-btn> -->
     <v-spacer></v-spacer>
     </v-app-bar>
     <v-content>
