@@ -53,7 +53,6 @@
         </v-card-text>
       </v-card>
     </v-flex>
-
     <v-flex xs12>
       <h1 class="mt-4">CodePen Scribbles</h1>
       <h3 class="mb-4">By Sajib Hawee</h3>
